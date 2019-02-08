@@ -1,2 +1,3 @@
 Hola este archivo lo hice para poder aprender con interfaz 
 pero creo que esto me quedo grande 
+se ven los cambios ?
